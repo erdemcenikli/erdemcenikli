@@ -1,6 +1,6 @@
 # Hi, I'm Erdem 👋
 
-🚀 Entrepreneur & Founder | 🤖 AI Tinkerer | 📱 iOS Developer
+🚀 Entrepreneur & Founder | 🤖 AI Tinkerer & Vibe Coder
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
