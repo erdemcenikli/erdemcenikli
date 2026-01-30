@@ -9,7 +9,7 @@
 
 ## Current Projects
 
-- 📋 [Tasklama][[https://github.com/erdemcenikli/Tasklama](https://apps.apple.com/au/app/tasklama-habit-tracker-to-do/id6748303057) - iOS productivity app that enforces focus by limiting users to three tasks per day
+- 📋 [Tasklama][(https://github.com/erdemcenikli/Tasklama)(https://apps.apple.com/au/app/tasklama-habit-tracker-to-do/id6748303057) - iOS productivity app that enforces focus by limiting users to three tasks per day
 - 📷 [Fast QR Scanner](https://github.com/erdemcenikli/fast-qr-barcode-scanner-ios) - Pro QR Code and Barcode Scanner for iOS 
 
 ## Get in Touch 
