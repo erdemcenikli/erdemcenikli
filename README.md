@@ -12,5 +12,5 @@
 - 📋 [Tasklama](https://github.com/erdemcenikli/Tasklama) - iOS productivity app that enforces focus by limiting users to three tasks per day
 - 📷 [Fast QR Scanner](https://github.com/erdemcenikli/fast-qr-barcode-scanner-ios) - Pro QR Code and Barcode Scanner for iOS 
 
-  ## Get in Touch 
+## Get in Touch 
 - 📧 erdemcenikli@gmail.com
