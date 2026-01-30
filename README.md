@@ -6,9 +6,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/)
 
----
-
-Building apps that solve real problems. Passionate about AI, mobile development, and creating products that people love.
 
 ## Current Projects
 
