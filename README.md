@@ -11,12 +11,8 @@
 
 ## Selected Private Projects (NDA-safe)
 
-- 🔐 **AI Legal Workflow Assistant**  
-  Internal assistant for drafting, summarizing, and organizing legal workflows using LLM-based tooling.
 - 🧠 **Founder Ops Copilot**  
   Private system for startup execution: planning, decision logs, KPI snapshots, and execution tracking.
-- 📱 **Stealth iOS Utility Apps**  
-  A set of private niche iOS utilities focused on speed, retention, and simple UX.
 - ⚙️ **Automation Pipelines**  
   Internal automation for repetitive business and content workflows.
 
