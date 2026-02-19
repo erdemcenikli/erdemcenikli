@@ -3,7 +3,7 @@
 🚀 Entrepreneur, Lawyer, and Founder building practical AI and mobile products.
 
 ## What I’m Building
-**Public:**
+## Public
 - 💳 [**Subscription Tracker**](https://github.com/erdemcenikli/SubscriptionTracker)
   Privacy-first web app to track recurring subscriptions and monthly costs — all stored locally, no account needed.
 
